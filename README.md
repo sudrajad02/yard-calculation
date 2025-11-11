@@ -55,7 +55,7 @@ your-project-name/
     *   Buat database PostgreSQL baru (misalnya `yard_planning_db`).
     *   Sesuaikan nama database, user, dan password di file `.env`.
 7.  **Konfigurasi Environment Variables:**
-    *   Salin file `.env.sample` (jika ada) atau buat file baru bernama `.env`.
+    *   Salin file `.env.sample` dan ganti nama jadi `.env`.
     *   Isi dengan konfigurasi database PostgreSQL kamu:
         ```env
         DB_HOST=localhost
