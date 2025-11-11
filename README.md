@@ -2,6 +2,7 @@
 
 ## Fitur Utama
 
+*   **Manajemen Rencana Yard:** Mendefinisikan area spesifik dalam block untuk tipe kontainer tertentu (berdasarkan ukuran, tinggi, dan tipe).
 *   **Saran Penempatan:** Endpoint untuk mendapatkan saran posisi kontainer berdasarkan rencana yang telah ditentukan.
 *   **Penempatan Kontainer:** Endpoint untuk mencatat penempatan kontainer ke posisi tertentu, dengan validasi ketersediaan dan kesesuaian rencana.
 *   **Pengambilan Kontainer:** Endpoint untuk mencatat pengambilan kontainer dari lapangan.
