@@ -1,0 +1,21 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Environment variables file
+.env
+
+# files
+files/*
+tests/*/files
+.env
+uploads/*
+notes.md
+/tmp/*
+to-do.txt
+.cursor/*
+main
+.trae
